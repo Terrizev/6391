@@ -13,7 +13,7 @@
   "author": "Gifted Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
-  "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v2.0.5.tar.gz",
+  "@whiskeysockets/baileys": "npm:angularsockets",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "megajs": "^1.1.0",
